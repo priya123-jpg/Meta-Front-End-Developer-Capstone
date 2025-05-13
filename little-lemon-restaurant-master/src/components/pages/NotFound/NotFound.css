@@ -24,7 +24,7 @@ form {
   width: 100%;
 }
 
-h2 {
+.login-heading {
   font-size: 60px;
   padding: 5px;
   text-align: center;

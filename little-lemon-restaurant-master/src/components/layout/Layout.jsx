@@ -26,7 +26,7 @@ const Layout = ({ children }) => {
     {
       name: "Login",
       path: "/login",
-      hashLink: false,
+      hashLink: true,
     },
   ];
 
