@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Meta-Front-End-Developer-Capstone/static/css/main.763b3ea7.css",
-    "main.js": "/Meta-Front-End-Developer-Capstone/static/js/main.6d96ec76.js",
+    "main.css": "/Meta-Front-End-Developer-Capstone/static/css/main.a3a10029.css",
+    "main.js": "/Meta-Front-End-Developer-Capstone/static/js/main.beb989da.js",
     "static/js/787.2bf7b87f.chunk.js": "/Meta-Front-End-Developer-Capstone/static/js/787.2bf7b87f.chunk.js",
     "static/media/chefs-mario-and-adrian_1.jpg": "/Meta-Front-End-Developer-Capstone/static/media/chefs-mario-and-adrian_1.baf0d2e31dc6977f913f.jpg",
     "static/media/chefs-mario-and-adrian_2.jpg": "/Meta-Front-End-Developer-Capstone/static/media/chefs-mario-and-adrian_2.5d8cccd399ab68c5c40b.jpg",
@@ -13,12 +13,12 @@
     "static/media/logo.png": "/Meta-Front-End-Developer-Capstone/static/media/logo.e68246686f716ff6e5d8.png",
     "index.html": "/Meta-Front-End-Developer-Capstone/index.html",
     "static/media/arrowDown.svg": "/Meta-Front-End-Developer-Capstone/static/media/arrowDown.8a70b7250e71a1b25016.svg",
-    "main.763b3ea7.css.map": "/Meta-Front-End-Developer-Capstone/static/css/main.763b3ea7.css.map",
-    "main.6d96ec76.js.map": "/Meta-Front-End-Developer-Capstone/static/js/main.6d96ec76.js.map",
+    "main.a3a10029.css.map": "/Meta-Front-End-Developer-Capstone/static/css/main.a3a10029.css.map",
+    "main.beb989da.js.map": "/Meta-Front-End-Developer-Capstone/static/js/main.beb989da.js.map",
     "787.2bf7b87f.chunk.js.map": "/Meta-Front-End-Developer-Capstone/static/js/787.2bf7b87f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.763b3ea7.css",
-    "static/js/main.6d96ec76.js"
+    "static/css/main.a3a10029.css",
+    "static/js/main.beb989da.js"
   ]
 }
