@@ -17,7 +17,7 @@ const App = () => {
             path="/confirmedReservation"
             element={<ConfirmedReservation />}
           />
-          <Route path="*" element={<NotFound />} />
+          <Route path="*"  element={<NotFound />} />
         </Routes>
       </Layout>
     </>
